@@ -31,7 +31,7 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 
 ### 🧾 Deployed NFT Smart Contract Address
 
-| 프로젝트명                                       | 네트워크   | Contract Address                                                                 |
+| Project name                                   | Network   | Contract Address                                                                 |
 |------------------------------------------------|------------|----------------------------------------------------------------------------------|
 | The Phantom of the Opera (Seoul / Daegu / Busan) | kaia       | [0xa9a95c5fef43830d5d67156a2582a2e793acb465](https://github.com/XPASS-official/XPASS-official/blob/main/Wallet_Address.md) |
 | X-PASS SITZPROBE NFT                            | kaia       | [0x7f0eb1d184c0db5144dc1fba0a04eece9bb5098e](https://kaiascan.io/address/0x7f0eb1d184c0db5144dc1fba0a04eece9bb5098e?tabId=txList&page=1) |
@@ -47,7 +47,7 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 | MOVE ON Gwangju                                 | kaia       | [0xddB31920103bED9d95c4221765610ce04fC8dffE](https://kaiascan.io/address/0xddB31920103bED9d95c4221765610ce04fC8dffE?tabId=txList&page=1) |
 | MOVE ON Busan                                   | kaia       | [0x0d2aDfC8CfF56dD4b260290F18A41d1e85685212](https://kaiascan.io/address/0x0d2aDfC8CfF56dD4b260290F18A41d1e85685212?tabId=txList&page=1) |
 | MOVE ON Daejeon                                 | kaia       | [0x21e879D66a291AD0A2Dff7D706E9D9c1164dCd36](https://kaiascan.io/address/0x21e879D66a291AD0A2Dff7D706E9D9c1164dCd36?tabId=txList&page=1) |
-| Aladdin Ticket PASS                              | Luniverse  | [0xf68a397bcaba798dbaa2b45b3325469f4b2cce64](https://kaiascan.io/address/0xf68a397bcaba798dbaa2b45b3325469f4b2cce64?tabId=txList&page=1) |
+| Aladdin Ticket PASS                              | Luniverse  | [0xf68a397bcaba798dbaa2b45b3325469f4b2cce64](https://scan.luniverse.io/accounts/0xf68a397bcaba798dbaa2b45b3325469f4b2cce64) |
 | Bubble Magic Show Daegu SPECIAL PASS            | kaia       | [0x7351470a3c6051a649ca40dc7965dfb5474fd61f](https://kaiascan.io/address/0x7351470a3c6051a649ca40dc7965dfb5474fd61f?tabId=txList&page=1) |
 | X-PASS SERIES – Special Performances            | kaia       | [0x4ba55e8fb8dae2627306602242f52eb6f2119632](https://kaiascan.io/address/0x4ba55e8fb8dae2627306602242f52eb6f2119632?tabId=txList&page=1) |
 | X-PASS QR NFT                                   | kaia       | [0xb9e99f4b1470d7ac2beb913c056b75e60a8acfa5](https://kaiascan.io/address/0xb9e99f4b1470d7ac2beb913c056b75e60a8acfa5?tabId=txList&page=1) |
