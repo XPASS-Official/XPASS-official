@@ -33,7 +33,7 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 
 | 프로젝트명                                       | 네트워크   | Contract Address                                                                 |
 |------------------------------------------------|------------|----------------------------------------------------------------------------------|
-| The Phantom of the Opera (Seoul / Daegu / Busan) | kaia       | [0xa9a95c5fef43830d5d67156a2582a2e793acb465](https://kaiascan.io/address/0xa9a95c5fef43830d5d67156a2582a2e793acb465?tabId=txList&page=1) |
+| The Phantom of the Opera (Seoul / Daegu / Busan) | kaia       | [0xa9a95c5fef43830d5d67156a2582a2e793acb465](https://github.com/XPASS-official/XPASS-official/blob/main/Wallet_Address.md) |
 | X-PASS SITZPROBE NFT                            | kaia       | [0x7f0eb1d184c0db5144dc1fba0a04eece9bb5098e](https://kaiascan.io/address/0x7f0eb1d184c0db5144dc1fba0a04eece9bb5098e?tabId=txList&page=1) |
 | Aladdin Digital Souvenir NFT                    | kaia       | [0x6a07cdbc606d364c31b9755ec4d510a10d01d11c](https://kaiascan.io/address/0x6a07cdbc606d364c31b9755ec4d510a10d01d11c?tabId=txList&page=1) |
 | Hadestown Commemorative NFT                     | kaia       | [0x2a73686a6fbabf2cf70fbd6d5b3c1603d3542a28](https://kaiascan.io/address/0x2a73686a6fbabf2cf70fbd6d5b3c1603d3542a28?tabId=txList&page=1) |
