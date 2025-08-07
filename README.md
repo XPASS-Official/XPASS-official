@@ -2,8 +2,8 @@
 
 ---
 
-####Own the Ticket. Access the Moment.
-###Your key to real-world experiences — from performances to collectibles, all on-chain.
+**Own the Ticket. Access the Moment.
+Your key to real-world experiences — from performances to collectibles, all on-chain.**
 
 ---
 
@@ -26,6 +26,8 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 - Build a fan-centered DAO community
 
 ---
+
+
 
 ### 🧾 Deployed NFT Smart Contract Address
 
