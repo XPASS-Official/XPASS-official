@@ -2,8 +2,8 @@
 
 ---
 
-**Own the Ticket. Access the Moment.
-Your key to real-world experiences — from performances to collectibles, all on-chain.**
+### Own the Ticket. Access the Moment.
+Your key to real-world experiences — from performances to collectibles, all on-chain.
 
 ---
 
