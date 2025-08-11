@@ -1,5 +1,5 @@
 # X-PASS
-xp_github_readme_main_large.png
+
 ---
 ![X-PASS](./xp_github_readme_main_large.png)
 ### Own the Ticket. Access the Moment.
