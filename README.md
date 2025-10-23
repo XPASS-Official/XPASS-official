@@ -55,6 +55,7 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 ### 🌐 Official Links
 
 #### 🏠 Website
+- [Ticket$tack](https://ticketstack.x-pass.io/)
 - [X-PASS Website](https://x-pass.io/)
 - [NFT Marketplace](https://marketplace.x-pass.io/)
 
