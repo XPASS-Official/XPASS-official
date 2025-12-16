@@ -75,7 +75,7 @@ By integrating **DAO governance**, **global payments**, and **AI recommendations
 
 ### 🧱 Blockchain Integration
 
-- [x]  Kaia Network Integration
+- [x]  BSC Network Integration
 - [x]  Core Token Distribution Complete
 - [ ]  Smart Contract Security Audit
 
